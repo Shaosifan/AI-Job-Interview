@@ -1,6 +1,6 @@
 ## 求职参考
 - [AI-Job-Notes](https://github.com/amusi/AI-Job-Notes): AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
-- [牛客网算法工程师面经](https://www.nowcoder.com/discuss/experience?tagId=645)
+- [牛客网算法工程师面经](https://www.nowcoder.com/discuss/experience?tagId=645): 覆盖国内互联网公司算法岗
 
 ## 简历模板
 - [Awesome Resume for Chinese](https://github.com/dyweb/awesome-resume-for-chinese): 适合中文的简历模板收集
