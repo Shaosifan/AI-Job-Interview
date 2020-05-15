@@ -1,3 +1,6 @@
+## 求职
+- [AI-Job-Notes](https://github.com/amusi/AI-Job-Notes): AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
+
 ## 简历模板
 - [Awesome Resume for Chinese](https://github.com/dyweb/awesome-resume-for-chinese): 适合中文的简历模板收集
 - [Awesome-CV](https://github.com/posquit0/Awesome-CV): Awesome CV is LaTeX template for your outstanding job application
