@@ -18,7 +18,7 @@
 - [LeetCode Solutions](https://github.com/azl397985856/leetcode): leetcode题解
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation): 用动画的形式呈现解LeetCode题目的思路
 
-## C++
+## C/C++
 - [C/C++ Interview](https://github.com/huihut/interview): C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。
 
 
