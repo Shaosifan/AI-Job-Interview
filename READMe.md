@@ -1,5 +1,6 @@
-## 求职
+## 求职参考
 - [AI-Job-Notes](https://github.com/amusi/AI-Job-Notes): AI算法岗求职攻略（涵盖准备攻略、刷题指南、内推和AI公司清单等资料）
+- [牛客网算法工程师面经](https://www.nowcoder.com/discuss/experience?tagId=645)
 
 ## 简历模板
 - [Awesome Resume for Chinese](https://github.com/dyweb/awesome-resume-for-chinese): 适合中文的简历模板收集
@@ -8,9 +9,12 @@
 
 ## 刷题
 ### 剑指offer
+- [力扣](https://leetcode-cn.com/problemset/lcof/): 剑指offer刷题平台
 - [CodingInterviewChinese2](https://github.com/zhedahht/CodingInterviewChinese2):《剑指Offer》第二版源代码
+- [剑指Offer系列刷题笔记汇总](https://cuijiahua.com/blog/2018/02/basis_67.html)
 
 ### Leetcode
+- [Leetcode](https://leetcode.com/problemset/top-interview-questions/): Leetcode刷题平台
 - [LeetCode Solutions](https://github.com/azl397985856/leetcode): leetcode题解
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation): 用动画的形式呈现解LeetCode题目的思路
 
