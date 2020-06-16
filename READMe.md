@@ -15,7 +15,7 @@
 
 ### Leetcode
 - [Leetcode](https://leetcode.com/problemset/top-interview-questions/): Leetcode刷题平台
-- [LeetCode Solutions](https://github.com/azl397985856/leetcode): leetcode题解
+- [leetcode题解](https://github.com/grandyang/leetcode): Provide all my solutions and explanations in Chinese for all the Leetcode coding problems.
 - [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation): 用动画的形式呈现解LeetCode题目的思路
 
 ## C/C++
